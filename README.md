@@ -8,6 +8,7 @@ This is a list of awesome cool video games, retro and recent, that are worth you
 I'll be marking featured games with different emoji depending on why they're featured. Not every game gets a special mark, but the ones that do are the most worth your attention.
 
 ⭐: Stars are for extremely important games that have stood the test of time. They've introduced or perfected mechanics that would become commonplace in modern video games. They're worth playing at least once if you appreciate the history of the medium.
+
 💎: Gems are for games that are a sort of "hidden gem" on the system. They're semi obscure and you likely haven't heard of them even as a fan of that system, but they still have something special to be highlighted for.
 
 
@@ -16,7 +17,7 @@ Featured systems will be split by company (Nintendo, Sony, Sega, Microsoft, Misc
 
 # Nintendo
 
-### Nintendo Entertainment System (NES)
+### [Nintendo Entertainment System (NES)](https://github.com/RadFox34/AGYSE/wiki/Nintendo-Entertainment-System--(NES))
 Some of the oldest games you'll see on this list truly planting the seeds for so many genres.
 
 ### Game Boy (+ Game Boy Color)
@@ -48,6 +49,9 @@ The funny confused little flop still managed to get some really solid games.
 
 ### Nintendo Switch
 This system changed everything about portable gaming as we know it.
+
+### Misc.
+Additional systems being mentioned for sake of completion.
 
 
 # Playstation
