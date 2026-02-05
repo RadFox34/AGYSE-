@@ -23,7 +23,7 @@ Some of the oldest games you'll see on this list truly planting the seeds for so
 ### Game Boy (+ Game Boy Color)
 Showing us the potential of video games in the palms of your hands.
 
-### Super Nintendo Entertainment System (SNES)
+### [Super Nintendo Entertainment System (SNES)](https://github.com/RadFox34/AGYSE/wiki/Super-Nintendo-Entertainment-System-(SNES))
 The system where video games started to become really amazing...
 
 ### Nintendo 64 (N64)
