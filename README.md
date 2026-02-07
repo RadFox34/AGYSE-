@@ -44,7 +44,7 @@ Games that made you get up and move! Some great stuff truly anyone can enjoy.
 ### Nintendo 3DS
 Nintendo's last traditional handheld still punched well above its weight!
 
-### Wii U
+### [Wii U](https://github.com/RadFox34/AGYSE/wiki/Wii-U)
 The funny confused little flop still managed to get some really solid games.
 
 ### Nintendo Switch
