@@ -20,7 +20,7 @@ Featured systems will be split by company (Nintendo, Sony, Sega, Microsoft, Misc
 ### [Nintendo Entertainment System (NES)](https://github.com/RadFox34/AGYSE/wiki/Nintendo-Entertainment-System--(NES))
 Some of the oldest games you'll see on this list truly planting the seeds for so many genres.
 
-### Game Boy (+ Game Boy Color)
+### [Game Boy (+ Game Boy Color)](https://github.com/RadFox34/AGYSE/wiki/Game-Boy-and-Game-Boy-Color)
 Showing us the potential of video games in the palms of your hands.
 
 ### [Super Nintendo Entertainment System (SNES)](https://github.com/RadFox34/AGYSE/wiki/Super-Nintendo-Entertainment-System-(SNES))
