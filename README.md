@@ -56,7 +56,7 @@ Additional systems being mentioned for sake of completion.
 
 # Playstation
 
-### Playstation (PS1)
+### [Playstation (PS1)](https://github.com/RadFox34/AGYSE/wiki/Playstation-(PS1))
 Video games in full 3D??? Look at those polygons!
 
 ### Playstation 2 (PS2)
@@ -69,7 +69,7 @@ Music play, movie releases, internet browsing, oh and some cool video games too.
 This console terrifies babies.
 
 ### Playstation Vita (PSVita)
-The handheld that was never given a chance managed to build a very strong cult following.
+The handheld that was never given a chance, yet it managed to build a very strong cult following.
 
 ## Misc.
 Some extra games that are impossible or very difficult to emulate.
