@@ -86,7 +86,7 @@ Grouped together because the lists are short and emulators hard to use.
 ### Sega Genesis / Mega Drive
 Blast processing! It could do what nintendon't!
 
-### Sega Dreamcast
+### [Sega Dreamcast](https://github.com/RadFox34/AGYSE/wiki/Dreamcast)
 The system way too ahead of its time for its own good.
 
 ### Misc.
