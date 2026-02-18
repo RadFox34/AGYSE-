@@ -29,7 +29,7 @@ The system where video games started to become really amazing...
 ### [Nintendo 64 (N64)](https://github.com/RadFox34/AGYSE/wiki/Nintendo-64)
 The magic of exploring games in 3D with 360 degrees of control!
 
-### Game Boy Advance (GBA)
+### [Game Boy Advance (GBA)](https://github.com/RadFox34/AGYSE/wiki/Game-Boy-Advance-(GBA))
 A beefier handheld letting you play some massively ambitious games anywhere you go
 
 ### Gamecube (GCN)
