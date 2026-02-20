@@ -68,7 +68,7 @@ Music play, movie releases, internet browsing, oh and some cool video games too.
 ### Playstation 3 (PS3)
 This console terrifies babies.
 
-### Playstation Vita (PSVita)
+### [Playstation Vita (PSVita)](https://github.com/RadFox34/AGYSE/wiki/Playstation-Vita-(PSVita))
 The handheld that was never given a chance, yet it managed to build a very strong cult following.
 
 ### Misc.
