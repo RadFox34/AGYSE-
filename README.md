@@ -103,3 +103,9 @@ You'll really need your imagination for some of these, but they hold up suprisin
 
 ### [Retro PC Games](https://github.com/RadFox34/AGYSE/wiki/Retro-PC-Games)
 Not really bundled under the same emulator, or even emulators at all for some of these!
+
+### Emulation Extras
+Showing off some really cool fun things you can do with the power of emulation.
+
+### Retroarch
+A multi system emulator setup that might be worth your time.
