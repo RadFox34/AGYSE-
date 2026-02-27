@@ -107,6 +107,9 @@ Not really bundled under the same emulator, or even emulators at all for some of
 # Emulation Extras
 Showing off some really cool fun things you can do with the power of emulation.
 
+### Emulation Handhelds
+A collection of cool handhelds to check out for portable emulation.
+
 ### [Frontends](https://github.com/RadFox34/AGYSE/wiki/Frontends)
 What if you could bundle all your emulated games into one convenient place?
 
