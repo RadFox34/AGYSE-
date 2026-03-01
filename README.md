@@ -38,7 +38,7 @@ The weird little box with some really inventive experiences
 ### [Nintendo DS](https://github.com/RadFox34/AGYSE/wiki/Nintendo-DS)
 Almost like a precursor to smartphones, being a touch screen handheld filled with great casual games.
 
-### Wii
+### [Wii](https://github.com/RadFox34/AGYSE/wiki/Wii)
 Games that made you get up and move! Some great stuff truly anyone can enjoy.
 
 ### Nintendo 3DS
