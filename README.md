@@ -119,7 +119,7 @@ Some new challenges to take on when replaying an old favorite.
 ### [Netplay](https://github.com/RadFox34/AGYSE/wiki/Netplay)
 Playing these games with online multiplayer? Tell me more!
 
-### Rom Hacks
+### [Rom Hacks](https://github.com/RadFox34/AGYSE/wiki/Rom-Hacks)
 It's like that game you just played but... a completely different experience!
 
 ### Retroarch
