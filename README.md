@@ -41,7 +41,7 @@ Almost like a precursor to smartphones, being a touch screen handheld filled wit
 ### [Wii](https://github.com/RadFox34/AGYSE/wiki/Wii)
 Games that made you get up and move! Some great stuff truly anyone can enjoy.
 
-### Nintendo 3DS
+### [Nintendo 3DS](https://github.com/RadFox34/AGYSE/wiki/3DS)
 Nintendo's last traditional handheld still punched well above its weight!
 
 ### [Wii U](https://github.com/RadFox34/AGYSE/wiki/Wii-U)
