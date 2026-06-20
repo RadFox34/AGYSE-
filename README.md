@@ -2,7 +2,7 @@
 
 
 
-This is a list of awesome cool video games, retro and recent, that are worth your time if you're looking soe something to play. Maybe you're someone that's played a lot of indie games and now you want to check out the classics that inspired them. Maybe you're well familiar with the iconic games but want to discover something cool and new you haven't played before? Well this is aiming to be a good place to look! Games for nearly every major system and even where to start for emulating them!
+This is a list of awesome cool video games, retro and recent, that are worth your time if you're looking for something to play. Maybe you're someone that's played a lot of indie games and now you want to check out the classics that inspired them. Maybe you're well familiar with the iconic games but want to discover something cool and new you haven't played before? Well this is aiming to be a good place to look! Games for nearly every major system and even where to start for emulating them!
 
 ## Basic visual guide:
 I'll be marking featured games with different emoji depending on why they're featured. Not every game gets a special mark, but the ones that do are the most worth your attention.
